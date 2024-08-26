@@ -1,0 +1,42 @@
+.b-log{
+    background-color: whitesmoke;
+}
+h1{
+    width: 100%;
+    text-align: center;
+    background-color:darkgray;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.d-table{
+    background-image: url(../imgs/background_log.jpg);
+    background-repeat: no-repeat;
+    align-items: center;
+    background-size: cover;
+}
+table{
+    align-items: center;
+    color: rgb(233, 231, 227);
+    width: 50%;
+    margin: 0 auto;
+border-spacing: 4px; 
+border-color: black;   
+}
+td{
+    border: 1 solid black;
+    text-align: center;
+    border-spacing: 4px;    
+    font-size: 18px;
+    text-transform: capitalize;
+
+
+}
+tr{
+    border: 1 solid black;
+    border-spacing: 4px;    
+
+}
+caption{
+    font-size: 22px;
+    text-transform: capitalize;
+}
